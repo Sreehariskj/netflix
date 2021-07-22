@@ -1,0 +1,37 @@
+.navbar{
+  position: fixed;
+  width: 100%;
+  height: 30px;
+  padding: 20px;
+  display: flex;
+  justify-content:space-between;
+  background-color: #111;
+  color: white;
+}
+.logo{
+  position: fixed;
+  left: 20px;
+  width:70px;
+}
+.avatar{
+  margin-left: 1rem;
+  padding: 4px;
+  width:30px;
+}
+.left-side{
+  position:fixed;
+  display: flex;
+  justify-content: space-evenly;
+  left: 100px;
+  align-items: center;
+}
+h7{
+  margin-right: 1rem;
+}
+.right-side{
+  position: fixed;
+  right: 20px;
+}
+i{
+  padding-left: 5px;
+}
