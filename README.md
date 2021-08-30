@@ -3,9 +3,9 @@ NETFLEX CLONE LINK : https://Sreehariskj.github.io/netflix
 
 # FEATURES <br>
   *Same UI Design of NETFLIX <br>
-  *Onclick video trailer appears <br>
+  *OnClick video trailer appears <br>
  => Added feature <br>
-   *Onclick play button banner video appears <br>
+   *OnClick play button banner video appears <br>
 
 
 # Getting Started with Create React App
