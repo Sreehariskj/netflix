@@ -1,5 +1,5 @@
 
-NETFLEX CLONE LINK : https://Sreehariskj.github.io/netflix
+NETFLIX CLONE LINK : https://Sreehariskj.github.io/netflix
 
 # FEATURES <br>
   *Same UI Design of NETFLIX <br>
