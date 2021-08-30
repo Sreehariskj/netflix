@@ -1,8 +1,8 @@
 
 NETFLEX CLONE LINK : https://Sreehariskj.github.io/netflix
 
-#FEATURES 
-  *Same UI Design of NETFLIX
+#FEATURES <br>
+  *Same UI Design of NETFLIX<br>
   *Onclick video trailer appears
  => Added feature
    *Onclick play button banner video appears
