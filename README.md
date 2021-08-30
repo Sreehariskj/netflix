@@ -1,7 +1,7 @@
 
 NETFLEX CLONE LINK : https://Sreehariskj.github.io/netflix
 
-#FEATURES <br>
+# FEATURES <br>
   *Same UI Design of NETFLIX <br>
   *Onclick video trailer appears <br>
  => Added feature <br>
