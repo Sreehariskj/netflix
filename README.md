@@ -6,7 +6,7 @@ NETFLIX CLONE LINK : https://Sreehariskj.github.io/netflix
   * Click to play video trailer
  ### Added feature 
    * Enabled play button on banner
-
+   * Auto-closing after video end
 
 
 
